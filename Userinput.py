@@ -1,0 +1,5 @@
+name = input("Enter name here: ")
+age = input("Enter age here: ")
+parents = input("Enter Parents names: ")
+brothers = input("Enter brother name: ")
+print(f"Hello {name}! You are {age} years old and your parents are {parents}. Your brothers are {brothers}.")
