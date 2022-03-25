@@ -1,0 +1,6 @@
+num1 = input("Enter a number: ")
+num2 = input("Enter another number: ")
+num3 = input("Enter next number here: ")
+num4 = input("Enter last number here: ")
+result = int(num1) + int(num2) + int(num3) + int(num4)
+print(result)
