@@ -1,0 +1,15 @@
+phrase = "Giraffe Academy"
+print(phrase[14])
+print(len(phrase))
+print(phrase.index("A"))
+print(phrase[3])
+print(phrase.upper().isupper())
+print(phrase.lower().islower())
+print(phrase.index("a"))
+print(phrase.replace("Giraffe", "elephant"))
+print(phrase.index("A"))
+phrase = "I love ice cream!"
+print(phrase. upper(). isupper())
+print(len(phrase))
+print(phrase. index ("i"))
+print(phrase. replace ("ice", "cold"))
