@@ -12,4 +12,4 @@ phrase = "I love ice cream!"
 print(phrase. upper(). isupper())
 print(len(phrase))
 print(phrase. index ("i"))
-print(phrase. replace ("ice", "cold"))
+print(phrase.replace("ice", "cold"))
