@@ -11,5 +11,5 @@ def translate(phrase):
     return translation
 print(translate(input("Enter a phrase: ")))
 # If statements within while loop
-# Use a # for comments
+# Use a # for comment or '''insert words here'''
 # Comments will not be read by python
