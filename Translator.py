@@ -10,3 +10,6 @@ def translate(phrase):
             translation = translation + letter
     return translation
 print(translate(input("Enter a phrase: ")))
+# If statements within while loop
+# Use a # for comments
+# Comments will not be read by python
