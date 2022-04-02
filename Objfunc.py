@@ -8,3 +8,4 @@ class Student:
             return True
         else:
             return False
+# Above is how you enter a funtion within a class
